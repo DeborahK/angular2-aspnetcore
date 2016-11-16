@@ -1,4 +1,4 @@
-# angular2-aspnetcore-
+# angular2-aspnetcore
 Angular 2 Getting Started files for ASP.NET Core
 
 To work with this code:
@@ -8,7 +8,7 @@ To work with this code:
 2) Type: `npm install`
     This installs the dependencies as defined in the package.json file.
 
-NOTE: This process puts all of the files for the project into wwwroot to simplify learning.
+>NOTE: This process puts all of the files for the project into wwwroot to simplify learning.
 	  When building a real application, consider moving the source files out of
 	  wwwroot and building a script using something like Gulp to copy the resulting
 	  .js files along with the templates and stylesheets to wwwroot.
