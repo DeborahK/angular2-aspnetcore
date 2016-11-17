@@ -12,3 +12,5 @@ To work with this code:
 	  When building a real application, consider moving the source files out of
 	  wwwroot and building a script using something like Gulp to copy the resulting
 	  .js files along with the templates and stylesheets to wwwroot.
+	  
+>For a more production-ready example that moves the files out of wwwroot and uses Webpack, see this: https://github.com/damienbod/Angular2WebpackVisualStudio
